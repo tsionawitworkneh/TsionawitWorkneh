@@ -9,5 +9,5 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsionawitworkneh&theme=react-dark)
 
 ## Connect with me
-- [LeetCode](https://leetcode.com/Tsionawit/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Tsionawit/)
 
