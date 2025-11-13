@@ -10,6 +10,6 @@
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/Tsionawit/" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40px" alt="LinkedIn"/>
 </a>
 
