@@ -9,6 +9,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tsionawitworkneh&theme=react-dark)
 
 ## Connect with me
-<a href="https://leetcode.com/tsionawitworkneh/" target="_blank">
-  <img src=["https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-compete-with-other-users-on-the-leetcode-logo-color-tal-revivo.png"](https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000)>
+<a href="https://www.linkedin.com/in/Tsionawit/" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" alt="LinkedIn"/>
 </a>
+
