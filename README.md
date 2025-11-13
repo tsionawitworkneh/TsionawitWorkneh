@@ -12,7 +12,7 @@
 
 ## 🤝 Connect with me
 
-<a href="https://linkedin.com/in/tsionawit-workneh/" target="_blank">
+<a href="linkedin.com/in/tsionawit-workneh-09a478311" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://leetcode.com/Tsionawit/" target="_blank">
