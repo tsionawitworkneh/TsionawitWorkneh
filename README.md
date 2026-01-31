@@ -1,4 +1,4 @@
-👨‍💻 Software & Web Developer | IS Student 🧠 Learning Full Stack Development 🔧 HTML • CSS • JavaScript • Java • Git 📈 Open to internships & collaboration
+👨‍💻 IS Student 🧠 Learning Full Stack Development 🔧 HTML • CSS • JavaScript • Java • Git 📈 Open to internships & collaboration
 
 ## 📊 GitHub Stats
 
